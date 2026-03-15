@@ -1,0 +1,26 @@
+# Environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# UV
+.uv/
+uv.lock
+
+# EasyOCR model cache
+.EasyOCR/
+
+# Uploads / temp
+data/uploads/
+*.tmp
+
+# IDEs
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
